@@ -1,6 +1,7 @@
+$font-type:times;
 li.headings{
 	font-weight:bold;
-	font-family: times;
+	font-family: $font-type;
 	font-size: 15px;
 	margin-top: 15px;
 	
@@ -9,7 +10,7 @@ li.headings{
 ul.common{
 	
 	list-style-type: none;
-	font-family: times;
+	font-family: $font-type;
 	font-size: 14px;
 	margin-left: 12px;
 	
@@ -38,7 +39,7 @@ ul.common li{
 }
 ul.foot1{
 	list-style-type: none;
-	font-family: times;
+	font-family: $font-type;
 	font-size: 12px;
 	margin-left: 12px;
 	color:white;
@@ -50,7 +51,7 @@ ul.foot1 li{
 }
 ul.commonfoot{
 	list-style-type: none;
-	font-family: times;
+	font-family: $font-type;
 	font-size: 12px;
 	margin-left: 182px;
 	padding-left: 0px;

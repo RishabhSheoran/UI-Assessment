@@ -1,3 +1,5 @@
+$color-txt:gray;
+$li-txt:"120%";
 ul.header{
 	display: flex;
     width: 100%;
@@ -21,8 +23,8 @@ ul.header1 li{
 
 ul.header1 li a{
 	text-decoration: none;
-	color: gray;
-	font-size: 120%;
+	color: $color-txt;
+	font-size: $li-txt;
 
 }
 
@@ -36,7 +38,7 @@ li.heading-link{
 
 li.heading-link a{
 	text-decoration: none;
-	color: gray;
-	font-size: 120%;
+	color: $color-txt;
+	font-size: $li-txt;
 }
 
