@@ -1,0 +1,64 @@
+li.headings{
+	font-weight:bold;
+	font-family: times;
+	font-size: 15px;
+	margin-top: 15px;
+	
+}
+
+ul.common{
+	
+	list-style-type: none;
+	font-family: times;
+	font-size: 14px;
+	margin-left: 12px;
+	
+}
+ul.common li{
+	margin-top: 15px;
+	font-color:gray;
+}
+.foot{
+	height: 50px;
+	width: 100%;
+	background-color: rgba(43, 43, 49, 0.93);
+   
+  	display: flex;
+  	justify-content:space-between;
+  	
+    
+}
+.footchild{
+	height:100%;
+    
+  	display: flex;
+  	
+  	width: 1200px;
+    margin: 0px 102px 0px 102px;
+}
+ul.foot1{
+	list-style-type: none;
+	font-family: times;
+	font-size: 12px;
+	margin-left: 12px;
+	color:white;
+	display: flex;
+  	justify-content:space-between;
+}
+ul.foot1 li{
+	margin-top: 0px;
+}
+ul.commonfoot{
+	list-style-type: none;
+	font-family: times;
+	font-size: 12px;
+	margin-left: 182px;
+	padding-left: 0px;
+	color:white;
+	display: flex;
+  	justify-content:space-between;
+}
+ul.commonfoot li{
+	margin-left: 15px;
+}
+

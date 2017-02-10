@@ -1,0 +1,45 @@
+@import "indexFooter";
+@import "indexHeader";
+.parent{
+	height:100%;
+
+  	display: flex;
+  	justify-content:space-between;
+  	width: 1200px;
+    margin: auto;
+}
+.parent2{
+	
+	justify-content:space-between;
+	display: flex;
+    width: 100%;
+}
+
+ul.header2{
+	display: flex;
+    width: 50%;
+    margin-top: 0px;
+    padding-left: 30px;
+}
+
+ul.header2 li{
+	margin-left: 20px;
+    list-style-type: none;
+}
+
+ul.header2 li a{
+	text-decoration: none;
+	color: gray;
+	font-size: 80%;
+}
+
+ul.searchbar{
+	margin: 0px 0px 0px;
+    width:50%;
+    list-style-type: none;
+    padding: 0px;
+}
+ul.searchbar li input{
+	width:577px;
+	margin-left: 20px;
+}

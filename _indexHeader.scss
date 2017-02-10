@@ -1,0 +1,42 @@
+ul.header{
+	display: flex;
+    width: 100%;
+}
+ul.header li{
+	
+	list-style-type: none;
+}
+
+ul.header1{
+	
+	padding-left: 0px;
+    margin-left: auto;
+    display: flex;
+}
+
+ul.header1 li{
+	margin-left: 20px;
+    margin-top: 80px;
+}
+
+ul.header1 li a{
+	text-decoration: none;
+	color: gray;
+	font-size: 120%;
+
+}
+
+
+
+li.heading-link{
+	margin-left: 32px;
+    margin-top: 80px;
+
+}
+
+li.heading-link a{
+	text-decoration: none;
+	color: gray;
+	font-size: 120%;
+}
+

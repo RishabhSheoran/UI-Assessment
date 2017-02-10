@@ -1,0 +1,122 @@
+li.headings {
+  font-weight: bold;
+  font-family: times;
+  font-size: 15px;
+  margin-top: 15px; }
+
+ul.common {
+  list-style-type: none;
+  font-family: times;
+  font-size: 14px;
+  margin-left: 12px; }
+
+ul.common li {
+  margin-top: 15px;
+  font-color: gray; }
+
+.foot {
+  height: 50px;
+  width: 100%;
+  background-color: rgba(43, 43, 49, 0.93);
+  display: flex;
+  justify-content: space-between; }
+
+.footchild {
+  height: 100%;
+  display: flex;
+  width: 1200px;
+  margin: 0px 102px 0px 102px; }
+
+ul.foot1 {
+  list-style-type: none;
+  font-family: times;
+  font-size: 12px;
+  margin-left: 12px;
+  color: white;
+  display: flex;
+  justify-content: space-between; }
+
+ul.foot1 li {
+  margin-top: 0px; }
+
+ul.commonfoot {
+  list-style-type: none;
+  font-family: times;
+  font-size: 12px;
+  margin-left: 182px;
+  padding-left: 0px;
+  color: white;
+  display: flex;
+  justify-content: space-between; }
+
+ul.commonfoot li {
+  margin-left: 15px; }
+
+ul.header {
+  display: flex;
+  width: 100%; }
+
+ul.header li {
+  list-style-type: none; }
+
+ul.header1 {
+  padding-left: 0px;
+  margin-left: auto;
+  display: flex; }
+
+ul.header1 li {
+  margin-left: 20px;
+  margin-top: 80px; }
+
+ul.header1 li a {
+  text-decoration: none;
+  color: gray;
+  font-size: 120%; }
+
+li.heading-link {
+  margin-left: 32px;
+  margin-top: 80px; }
+
+li.heading-link a {
+  text-decoration: none;
+  color: gray;
+  font-size: 120%; }
+
+.parent {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  width: 1200px;
+  margin: auto; }
+
+.parent2 {
+  justify-content: space-between;
+  display: flex;
+  width: 100%; }
+
+ul.header2 {
+  display: flex;
+  width: 50%;
+  margin-top: 0px;
+  padding-left: 30px; }
+
+ul.header2 li {
+  margin-left: 20px;
+  list-style-type: none; }
+
+ul.header2 li a {
+  text-decoration: none;
+  color: gray;
+  font-size: 80%; }
+
+ul.searchbar {
+  margin: 0px 0px 0px;
+  width: 50%;
+  list-style-type: none;
+  padding: 0px; }
+
+ul.searchbar li input {
+  width: 577px;
+  margin-left: 20px; }
+
+/*# sourceMappingURL=index_final.css.map */
